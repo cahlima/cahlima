@@ -5,12 +5,10 @@ Bem-vindo à minha página pessoal! Este é um projeto hospedado no GitHub Pages
 
 ## Sobre Mim
 
-Olá! Eu sou Acacia de Lima, tenho 41 anos, casada e amante de tecnologia. Em breve serei especialista em software. Tenho 5 cachorros que adoro.
+Olá! Eu sou Acacia de Lima, tenho 42. Empresaria, estudante.. 
 
 ## Aptidões
 
-- Back End
-- APIs
 - Análise de Projetos e Requisitos
 
 ## Exemplo de Código
